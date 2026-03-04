@@ -1,6 +1,6 @@
 # Fallout 76 - SFE (Save Everything) Unofficial Patch by DCHoaxer95
 
-**Status:** Working for FO76 Version [Aktuelle Spiel-Version eintragen] (March 2026)
+**Status:** Working for FO76 Version 1.7.23.30 (3 March 2026)
 
 ### What is this?
 Since the original SFE (Save Everything) mod by Keretus is currently waiting for an official update on NexusMods, some mods (like Perk Loadout Manager) are broken. 
